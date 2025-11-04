@@ -12,7 +12,7 @@
           "skipTests": true
         },
         "@schematics/angular:service": {
-          "type":"component"
+          "type":"service"
         }
       },
       "root": "",
